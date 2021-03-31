@@ -1,4 +1,4 @@
-## H4X0r
+## H4X0R
 An Hacker News reader application, a UI for reading articles showcased on the platform.
 
 ## Motivation
